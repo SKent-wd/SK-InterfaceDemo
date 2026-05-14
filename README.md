@@ -32,6 +32,11 @@ Stephen Kent
 
 ## Version History
 
+* 0.3
+  * Added frame for displaying the main contents
+  * Adjusted size and padding of the top header
+  * Rearranged buttons to be in a row
+
 * 0.2
   * Added simple buttons with status messages
   * Added basic styling to the labels
