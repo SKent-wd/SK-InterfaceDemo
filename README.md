@@ -32,6 +32,11 @@ Stephen Kent
 
 ## Version History
 
+* 0.4
+  * Created an additional frame to display Dice Roller content in future updates
+  * "Dice Roller" button now switches to the new Dice Roller frame
+  * Added some clarifications to existing code comments
+
 * 0.3
   * Added frame for displaying the main contents
   * Adjusted size and padding of the top header
