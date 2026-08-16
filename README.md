@@ -32,6 +32,12 @@ Stephen Kent
 
 ## Version History
 
+* 0.5
+  * Added MIT License file
+  * "Mad Libs" button now switches to the new Mad Libs frame
+  * Corrected a typo in the window title
+  * Corrected a code comment to match the code being described
+
 * 0.4
   * Created an additional frame to display Dice Roller content in future updates
   * "Dice Roller" button now switches to the new Dice Roller frame
@@ -53,7 +59,7 @@ Stephen Kent
 
 ## License
 
-TBD
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
 
